@@ -1,3 +1,4 @@
 nm-revolution
 -konsisten untuk belajar ngoding
 -membuat website 
+-membuat start up
