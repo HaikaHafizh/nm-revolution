@@ -1,3 +1,4 @@
 rencana startup
 1.membuat tim 
 2.pembagian kerja
+3.pelakasanaan
