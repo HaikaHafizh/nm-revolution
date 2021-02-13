@@ -3,3 +3,4 @@ rencana startup
 2.pembagian kerja
 3.pelakasanaan
 menggunakan laravel
+menggunakan reactjs
