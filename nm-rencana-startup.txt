@@ -4,4 +4,5 @@ rencana startup
 3.pelakasanaan
 4.menggunakan framework
 *menggunakan laravel
-*menggunakan reactjs
+5.menggunakan php
+
